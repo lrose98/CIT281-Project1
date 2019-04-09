@@ -8,6 +8,7 @@
 4. Git Branches
 5. Github Basics
 6. Markdown Basics
-7. All the hottest Mars facts
+7. All the hottest Neptune facts
 8. Learning Branching Workflow
 9. Three-trees model (super secret)
+10. Learn Branching Workflow
